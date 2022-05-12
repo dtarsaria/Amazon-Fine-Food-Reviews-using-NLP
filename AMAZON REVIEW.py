@@ -1,5 +1,7 @@
-import bamboolib as bam #easy to do data manipulation and highly recommend going to https://bamboolib.8080labs.com/ and that will help you follow along
-import pandas as pd #data manipulation
+#import all the necessary libraries for data analysis
+
+import bamboolib as bam                        #easy to do data manipulation and highly recommend going to https://bamboolib.8080labs.com/ and that will help you follow along
+import pandas as pd                            #data manipulation
 import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
